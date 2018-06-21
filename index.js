@@ -2,4 +2,5 @@
 
 function getUKTime() {
   let ukTime = "3:22";
+  return ukTime;
 }
