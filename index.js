@@ -1,7 +1,7 @@
 // Write your code in this file!
 
 function getUKTime() {
-  let ukTime = 3:22;
+  let ukTime = _3:22am_;
   return ukTime;
 }
 
